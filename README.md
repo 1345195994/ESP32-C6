@@ -23,5 +23,7 @@
 4. 路由网络信息页
 实时显示路由器详细网络参数、联网状态，方便查看校园网络连接情况。
 
+<img width="1080" height="1919" alt="wx_camera_1792583470556" src="https://github.com/user-attachments/assets/dd14c8e1-1d3a-491f-af2e-24e44008006f" />
+
 <img width="364" height="647" alt="bff20f08781d7d3d626dadba9f52d3b3_750" src="https://github.com/user-attachments/assets/72f7eb12-e2a0-4028-a1eb-d9d951ac0a4f" />
 
